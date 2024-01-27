@@ -4,7 +4,7 @@
  * Project Type  : Win64 Console Application                                    *
  * Project Name  : Teor_Grph_Lab6                                               *
  * File Name     : Lab6. CPP                                                    *
- * Programmer(s) : Викулов Д.Г.  &   Сашин А. Ю.                                *
+ * Programmer(s) : Викулов Д.Г.                                                 *
  * Modifyed By   :                                                              *
  * Created       : 06/10/23                                                     *
  * Last Revision : 12/10/23                                                     *
@@ -729,7 +729,7 @@ void Usloviya()
 	cout << "\t\t\t\t* Project Type  : Win64 Console Application                                     *\n";
 	cout << "\t\t\t\t* Project Name  : Teor_Grph_Lab6                                                *\n";
 	cout << "\t\t\t\t* File Name     : Lab6. CPP                                                     *\n";
-	cout << "\t\t\t\t* Programmer(s) : Викулов Д.Г.  &   Сашин А. Ю.                                 *\n";
+	cout << "\t\t\t\t* Programmer(s) : Викулов Д.Г.                                                  *\n";
 	cout << "\t\t\t\t* Modifyed By   :                                                               *\n";
 	cout << "\t\t\t\t* Created       : 06/10/23                                                      *\n";
 	cout << "\t\t\t\t* Last Revision : 12/10/23                                                      *\n";
